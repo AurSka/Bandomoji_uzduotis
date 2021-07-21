@@ -1,0 +1,170 @@
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Bandomoji uzduotis.StaticWebAssets.xml
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Bandomoji uzduotis.exe
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Bandomoji uzduotis.deps.json
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Bandomoji uzduotis.runtimeconfig.json
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Bandomoji uzduotis.runtimeconfig.dev.json
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Bandomoji uzduotis.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Bandomoji uzduotis.pdb
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Bandomoji uzduotis.Views.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Bandomoji uzduotis.Views.pdb
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Bandomoji\Bandomoji uzduotis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.csprojAssemblyReference.cache
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.AssemblyInfoInputs.cache
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.AssemblyInfo.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.csproj.CoreCompileInputs.cache
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.MvcApplicationPartsAssemblyInfo.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.MvcApplicationPartsAssemblyInfo.cache
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.RazorAssemblyInfo.cache
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.RazorAssemblyInfo.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\staticwebassets\Bandomoji uzduotis.StaticWebAssets.Manifest.cache
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\staticwebassets\Bandomoji uzduotis.StaticWebAssets.xml
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bandomoji uzduotis.styles.css
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.TagHelpers.input.cache
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.TagHelpers.output.cache
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.RazorCoreGenerate.cache
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.RazorTargetAssemblyInfo.cache
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.RazorTargetAssemblyInfo.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.Views.pdb
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.csproj.CopyComplete
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.dll
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.pdb
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Bandomoji uzduotis.genruntimeconfig.cache
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Filmas\Create.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Filmas\Delete.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Filmas\Details.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Filmas\Edit.cshtml.g.cs
+D:\Bandomoji\Bandomoji uzduotis\obj\Debug\netcoreapp3.1\Razor\Views\Filmas\Index.cshtml.g.cs

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Bandomoji_uzduotis.Models.Filmas>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+    
+
+<form asp-action="Index">
+    <a asp-action="Create">Create New</a>
+    <div style="text-align:right" class="form-group">
+        <input type="text" name="searchString" />
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Pavadinimas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsleidimoData)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FilmoZanras)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pavadinimas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsleidimoData)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmoZanras)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
