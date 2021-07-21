@@ -1,19 +1,19 @@
 ﻿@model IEnumerable<Bandomoji_uzduotis.Models.Filmas>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Turinys";
 }
 
-<h1>Index</h1>
+<h1>Turinys</h1>
 
 
 
 
 <form asp-action="Index">
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Sukurti naują</a>
     <div style="text-align:right" class="form-group">
         <input type="text" name="searchString" value=@ViewBag.CurrentString />
-        <input type="submit" value="Search" class="btn btn-primary" />
+        <input type="submit" value="Ieškoti" class="btn btn-primary" />
     </div>
 </form>
 <table class="table">
@@ -45,9 +45,9 @@
                     @Html.DisplayFor(modelItem => item.FilmoZanras)
                 </td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.ID">Redaguoti</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID">Detalės</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID">Pašalinti</a>
                 </td>
             </tr>
         }

@@ -8772,11 +8772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bandomoji\\Bandomoji uzduotis\\Bandomoji uzduotis.csproj",
+      "projectUniqueName": "D:\\GitHub\\Bandomoji_uzduotis\\Bandomoji uzduotis.csproj",
       "projectName": "Bandomoji uzduotis",
-      "projectPath": "D:\\Bandomoji\\Bandomoji uzduotis\\Bandomoji uzduotis.csproj",
+      "projectPath": "D:\\GitHub\\Bandomoji_uzduotis\\Bandomoji uzduotis.csproj",
       "packagesPath": "C:\\Users\\Aurimas\\.nuget\\packages\\",
-      "outputPath": "D:\\Bandomoji\\Bandomoji uzduotis\\obj\\",
+      "outputPath": "D:\\GitHub\\Bandomoji_uzduotis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
