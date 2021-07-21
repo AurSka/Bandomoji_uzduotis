@@ -22,17 +22,24 @@ namespace Bandomoji_uzduotis.Controllers
 
         // GET: Filmas
 
-        public async Task<IActionResult> Index(string searchString)
+        public async Task<IActionResult> Index(string searchString, int? pageCount)
         {
-            FormattableString sql = $"SELECT * FROM dbo.Filmas WHERE Pavadinimas LIKE '%{searchString}%'";
             if (!String.IsNullOrEmpty(searchString))
             {
-                return View(await _context.Filmas.FromSqlRaw("SELECT * FROM dbo.Filmas WHERE Pavadinimas LIKE '%" + searchString + "%'").ToListAsync());
+                ViewBag.CurrentString = searchString;
             }
-            else
+            
+            if (pageCount != null)
             {
-                return View(await _context.Filmas.ToListAsync());
+                ViewBag.PageNumber = pageCount;
             }
+            else if (ViewBag.PageNumber == null)
+            {
+                ViewBag.PageNumber = 1;
+            }
+            ViewBag.Count = _context.Filmas.FromSqlRaw("SELECT * FROM Filmas WHERE Pavadinimas LIKE '%" + (string)ViewBag.CurrentString + "%' ").Count();
+            return View(await _context.Filmas.FromSqlRaw("SELECT * FROM Filmas WHERE Pavadinimas LIKE '%" + (string)ViewBag.CurrentString + "%' " +
+                "ORDER BY Pavadinimas OFFSET " + (10 * ((int)ViewBag.PageNumber - 1) + "ROWS FETCH NEXT 10 ROWS ONLY").ToString()).ToListAsync());
         }
 
         // GET: Filmas/Details/5

@@ -7,12 +7,12 @@
 <h1>Index</h1>
 
 
-    
+
 
 <form asp-action="Index">
     <a asp-action="Create">Create New</a>
     <div style="text-align:right" class="form-group">
-        <input type="text" name="searchString" />
+        <input type="text" name="searchString" value=@ViewBag.CurrentString />
         <input type="submit" value="Search" class="btn btn-primary" />
     </div>
 </form>
@@ -32,23 +32,41 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Pavadinimas)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IsleidimoData)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.FilmoZanras)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pavadinimas)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsleidimoData)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FilmoZanras)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+
+@{int maxPage = (int)Math.Ceiling((double)ViewBag.Count / 10);
+}
+
+<button class="btn btn-primary" onclick="location.href='@Url.Action("Index", "Filmas", new { pageCount = Math.Max(1, ViewBag.PageNumber - 1), searchString = ViewBag.CurrentString })';return false;"><</button>  <input type="number" id="MaxPage" name="MaxPage" value=@maxPage readonly /> / <input type="number" id="pageCount" name="pageCount" value=@ViewBag.PageNumber readonly /> <button class="btn btn-primary" onclick="location.href='@Url.Action("Index", "Filmas", new { pageCount = Math.Min(maxPage, ViewBag.PageNumber + 1), searchString = ViewBag.CurrentString })';return false;">></button>
+
+
+<script>
+    function PageUp() {
+        $maxpage = document.getElementById("MaxPage").value;
+        $currentpage = document.getElementById("PageCount").value;
+        if ($maxpage != $currentpage) {
+            document.getElementById("PageCount").value = Number($currentpage) + 1;
+            document.getElementById("PageChange").submit();
+        }
+    }
+</script>
